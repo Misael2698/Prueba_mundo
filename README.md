@@ -16,3 +16,7 @@ npm install axios
 npm install hbs
 
 ```
+iniciar
+```
+node server
+```
